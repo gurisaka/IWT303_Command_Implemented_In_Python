@@ -65,7 +65,7 @@ def usage():
 	print("IWT303 Command")
 	print("usage:")
 	print("sudo python3 %s list ... List all serial number of IWT303(s)" % sys.argv[0])
-	print("sudo python3 %s set <SerialNumber|\"ANY|\"> <StateNumber> ... Set state of relays" % sys.argv[0])
+	print("sudo python3 %s set <SerialNumber|\"ANY\"> <StateNumber> ... Set state of relays" % sys.argv[0])
 
 if __name__ == '__main__':
 	if len(sys.argv) == 1:

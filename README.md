@@ -11,5 +11,10 @@ sudo python3 iwt303_command.py list ... List all serial number of IWT303(s)
 sudo python3 iwt303_command.py set <SerialNumber|"ANY"> <StateNumber> ... Set state of relays
 ```
 
+## Requirements
+```
+pyusb
+```
+
 ## License
 MIT License

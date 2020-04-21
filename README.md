@@ -1,4 +1,4 @@
-# IWT303_Command_Implemented_In_Python
+# IWT303_Command_Implemented_By_Python
 
 ## Description
 This is a Python command implementation of the USB relay control module IWT303.
